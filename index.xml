@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This blog kills fascists</title>
+    <link>https://will-henney.github.io/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://will-henney.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Will&#39;s new blog</title>
+        <link>https://will-henney.github.io/posts/first-post/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://will-henney.github.io/posts/first-post/</guid>
+        <description>I have decided to start writing a technical blog, hosted on github pages. It will be focussed on python, emacs, and astrophysics.
+This all started in a roundabout way after I was looking into bi-directional import/export between Things 3 and Emacs org-mode. That led me to looking at Karl Voit&amp;rsquo;s orgformat python library, which in turn led to his lazyblorg blogging environment for org-mode. I had always meant to try and start a blog, making use of all the reams of material that I write in my org-mode notes, but had never got round to it.</description>
+      </item>
+    
+  </channel>
+</rss>
