@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ionized.space</title>
-    <link>https://will-henney.github.io/tags/emacs/</link>
+    <link>https://ionized.space/tags/emacs/</link>
     <description>Will Henney&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://will-henney.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 -0500</lastBuildDate><atom:link href="https://ionized.space/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Will&#39;s new blog</title>
-        <link>https://will-henney.github.io/posts/first-post/</link>
+        <link>https://ionized.space/posts/first-post/</link>
         <pubDate>Tue, 01 Sep 2020 00:00:00 -0500</pubDate>
         
-        <guid>https://will-henney.github.io/posts/first-post/</guid>
+        <guid>https://ionized.space/posts/first-post/</guid>
         <description>In which I explain the raison d&amp;rsquo;être</description>
       </item>
     
