@@ -3,7 +3,7 @@
   <channel>
     <title>Ionized Space</title>
     <link>https://ionized.space/</link>
-    <description>Will Henney&#39;s personal website</description>
+    <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Sep 2020 19:56:00 -0500</lastBuildDate><atom:link href="https://ionized.space/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
         <pubDate>Mon, 07 Sep 2020 19:56:00 -0500</pubDate>
         
         <guid>https://ionized.space/posts/test-with-image/</guid>
-        <description>This image is in the images/ subfolder:</description>
+        <description>This image is in the images/ subfolder:
+   Figure 1: HH 625  </description>
       </item>
     
       <item>
